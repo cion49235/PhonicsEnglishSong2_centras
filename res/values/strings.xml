@@ -68,4 +68,8 @@
      <string name="txt_channel_title10">"Channel-11"</string>
      <string name="txt_channel_title11">"Channel-12"</string>
      <string name="txt_channel_title12">"Channel-13"</string>
+     
+     
+     <string name="txt_str9">"http://cion49235.cafe24.com/xml_musicfree/detail/view"</string>
+     
 </resources>

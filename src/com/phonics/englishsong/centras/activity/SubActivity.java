@@ -475,7 +475,7 @@ public class SubActivity extends SherlockActivity implements OnItemClickListener
 				}
 				try{
 					Log.e("dsu", "num : " + num);
-				   String data = Crypto.decrypt(Utils.data, context.getString(R.string.txt_str8));
+				   String data = context.getString(R.string.txt_str9);
 		           String str = data+i+".php?view="+num; 
 		           HttpURLConnection localHttpURLConnection = (HttpURLConnection)new URL(str).openConnection();
 		           HttpURLConnection.setFollowRedirects(false);
